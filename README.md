@@ -1,5 +1,5 @@
 # Machine Learning (Coursera)
-This is my solution to all the programming assignments and quizzes of Machine-Learning (Coursera) taught by Emily Fox anf Carlos Guestrin. After completing this course you will get a broad idea of Machine learning algorithms. Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code.
+This is my solution to all the programming assignments and quizzes of Machine-Learning (Coursera) taught by Emily Fox and Carlos Guestrin. After completing this course you will get a broad idea of Machine learning algorithms. Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code.
 
 ## Contents
 * Solution to programming assignment
